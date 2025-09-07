@@ -18,11 +18,12 @@ All data is stored in a local JSON file (`contacts.json`).
 
 ## Screenshots
 
-### App UI
-![App UI](assets/search.png)
+### Search Window
+![Search Screenshot](https://raw.githubusercontent.com/Gauravkumar15122003/contact-manager/main/search.png)
 
-### Search Result Example
-![Search Result](assets/ui.png.png)
+### UI Window
+![UI Screenshot](https://raw.githubusercontent.com/Gauravkumar15122003/contact-manager/main/ui.png.png)
+
 
 ## Installation & Usage
 1. Clone the repository:
