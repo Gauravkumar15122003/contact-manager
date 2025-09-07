@@ -21,3 +21,4 @@ All data is stored in a local JSON file (`contacts.json`).
    ```bash
    git clone https://github.com/<your-username>/contact-manager.git
    cd contact-manager
+   python Phone.py (python filename.py)
