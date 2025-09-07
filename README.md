@@ -16,6 +16,14 @@ All data is stored in a local JSON file (`contacts.json`).
 - Python 3.x
 - Tkinter (comes pre-installed with Python)
 
+## Screenshots
+
+### App UI
+![App UI](assets/search.png)
+
+### Search Result Example
+![Search Result](assets/ui.png.png)
+
 ## Installation & Usage
 1. Clone the repository:
    ```bash
