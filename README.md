@@ -19,7 +19,7 @@ All data is stored in a local JSON file (`contacts.json`).
 ## Screenshots
 
 ### Search Window
-![Search Screenshot](https://raw.githubusercontent.com/Gauravkumar15122003/contact-manager/main/search.png)
+![Search Screenshot](https://raw.githubusercontent.com/Gauravkumar15122003/contact-manager/main/search.png.png)
 
 ### UI Window
 ![UI Screenshot](https://raw.githubusercontent.com/Gauravkumar15122003/contact-manager/main/ui.png.png)
